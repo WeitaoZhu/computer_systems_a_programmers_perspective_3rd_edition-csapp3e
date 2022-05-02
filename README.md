@@ -1,37 +1,10 @@
-# Computer_Systems_A_Programmers_Perspective_3rd_Edition-CSAPP3e
+# Computer Systems A Programmers Perspective
 
 #### 介绍
-CS:APP3e 是 Computer Systems: A Programmer’s Perspective的缩写，是卡内基梅隆大学（简称 CMU） 的ICS，也就是计算机导论课程的教材。深入理解计算机系統
+[CS:APP3e](http://csapp.cs.cmu.edu) 是 Computer Systems: A Programmer’s Perspective的缩写，是卡内基梅隆大学（简称 CMU） 的ICS，也就是计算机导论课程的教材 ，已被全世界范围内的200多所大学用作教材，两位教授分别是 [Randal E. Bryant](https://en.wikipedia.org/wiki/Randal_Bryant) 和 [David R. O’Hallaron](https://www.cs.cmu.edu/~droh/)，该书的简体中文版名称是《深入理解计算机系統》，[豆瓣](https://book.douban.com/subject/26912767/)的评分高达9.8分，其实直译为《从程序员的角度来理解计算机系统》也许更加贴切，因为该书虽然涉及的范围很广但是讲解的内容其实并不算特别深入。
 
-#### 软件架构
-软件架构说明
+[计算机系统(底层)知识学习漫谈](https://www.bilibili.com/video/BV1no4y1R7M9/) 
 
+[哔哩哔哩视频解说](https://www.bilibili.com/video/BV1RK4y1R7Kf/)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[CMU教授的视频教程](https://www.bilibili.com/video/BV1a54y1k7YE?p=1)
