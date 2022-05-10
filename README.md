@@ -16,13 +16,30 @@
 
 
 
+今天我们已经被太多的抽象或者所谓的框架所包围，但是底层的工作机制依然是支撑它们的基础，最好还是能够 “知其所以然”，主动修炼内功，台湾的侯捷先生也说过类似的话 “勿以浮沙筑高台”，理解计算机系统底层的工作原理可以帮助我们更加正确，高效，安全地使用底层的资源，写出更加健壮的代码，以及比别人更加会调试代码！
+
+
+
 [计算机系统(底层)知识学习漫谈](https://www.bilibili.com/video/BV1no4y1R7M9/) 
 
-[哔哩哔哩视频解说](https://www.bilibili.com/video/BV1RK4y1R7Kf/)
 
-[CMU教授的视频教程](https://www.bilibili.com/video/BV1a54y1k7YE?p=1)
 
-\1. 计算机体系结构课程 - 卡内基梅隆大学 (18-447)
-[【强烈推荐】计算机体系结构 - 卡内基梅隆大学 (18-447)](https://www.bilibili.com/video/BV1PT4y1M7gM)
-\2. 并行计算架构与编程 - 卡内基梅隆大学 (15-418/618)
-[卡内基梅隆大学 - 并行计算架构与编程 (15-418 / 15-618)](https://www.bilibili.com/video/BV1aa4y1s7EH/)
+## 翻译内容链接
+
+- [bilibili 中英字幕精校版视频地址(进行中)](https://www.bilibili.com/video/av31289365)
+
+## CSAPP:3e 官方链接
+
+- [课程主页](http://csapp.cs.cmu.edu/)
+- [课件下载链接](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
+- [课程 Lab 页面](http://csapp.cs.cmu.edu/3e/labs.html)
+- [课程视频地址](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&sortColumn=0&sortAscending=true)
+
+
+
+1. 计算机体系结构课程 - 卡内基梅隆大学 (18-447)
+
+   [计算机体系结构 - 卡内基梅隆大学 (18-447)](https://www.bilibili.com/video/BV1PT4y1M7gM)
+
+2. 并行计算架构与编程 - 卡内基梅隆大学 (15-418/618)
+   [卡内基梅隆大学 - 并行计算架构与编程 (15-418 / 15-618)](https://www.bilibili.com/video/BV1aa4y1s7EH/)
